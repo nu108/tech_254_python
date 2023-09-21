@@ -4,9 +4,7 @@ import sys
 import os
 import subprocess
 import math
-import random
 import datetime
-import _json
 
 #sys
 print(sys.version)
