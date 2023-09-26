@@ -13,6 +13,7 @@ SSH (Secure Shell) works by establishing a secure encrypted connection between a
 (the computer initiating the connection) and a server(the remote computer or device being connected to). This secure connection allows
 for secure remote access, file transfer, and various other network services.
 
+
 What are private and public keys?
 
 Private Key:
